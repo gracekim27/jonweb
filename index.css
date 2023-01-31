@@ -96,7 +96,6 @@ body {
 
 .navStyle > li.active > a,
 .navStyle > li.active > a:hover {
-    text-decoration: none;
     color: #c36363;
     background-color: transparent;
 }
@@ -126,7 +125,6 @@ ul {
 
 a, a:hover, a:active {
     outline: 0px !important;
-	text-decoration:none;
 }
 .clear {
     clear: both;
