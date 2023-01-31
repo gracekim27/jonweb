@@ -64,7 +64,7 @@ body {
 .navStyle ul li a {
     display: block;
     color: #ffffff;
-    font-family: 'Source Code Pro';
+    font-family: 'Source Code Pro' , sans-serif;
     font-style: normal;
     text-transform: uppercase;
     font-weight: 600;
