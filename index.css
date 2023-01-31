@@ -7,3 +7,8 @@ body {
     color: #000000;
     margin: 0;
 }
+
+
+#header_wrapper {
+    background:  #600000;
+}
