@@ -39,6 +39,10 @@ body {
     float: right;
 }
 
+.navStyletitle {
+    float: left;
+}
+
 .navStyle ul {
     list-style: none;
     padding: 0px;
