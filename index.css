@@ -13,3 +13,8 @@ body {
     background:  #600000;
     padding: 20px 0px;
 }
+
+.header_box {
+    position: relative;
+}
+
