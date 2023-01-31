@@ -9,6 +9,9 @@ body {
 }
 
 
+
+
+
 #header_wrapper {
     background:  #600000;
     padding: 20px 0px;
@@ -60,15 +63,16 @@ body {
 
 .navStyle ul li a {
     display: block;
-    font-size: 14px;
     color: #ffffff;
-    font-family: 'Raleway', sans-serif;
-    text-decoration: none;
+    font-family: 'Source Code Pro';
+    font-style: normal;
     text-transform: uppercase;
     font-weight: 600;
+    line-height: 38px;
     transition: all 0.2s ease-in-out;
     -moz-transition: all 0.2s ease-in-out;
     -webkit-transition: all 0.2s ease-in-out;
+
 }
 
 .navStyle ul li a:hover {
