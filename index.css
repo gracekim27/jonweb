@@ -74,6 +74,7 @@ body {
 }
 
 .navStyle ul li a:hover {
+    text-decoration: none;
     color: #c36363;
 }
 
